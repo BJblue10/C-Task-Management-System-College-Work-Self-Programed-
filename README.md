@@ -1,5 +1,5 @@
 # C-Task-Management-System-College-Work-Self-Programed-
-(Self Made Code That was Made for Group Project)
+(Self Made Code That was Made for Group Project) C++ Project
 
 // Project Overview // 
 
